@@ -16,7 +16,7 @@
 ## Харьцуулсан боломжит stack-ууд
 
 ### Stack A
-Node.js + Express + SQLite + Vanilla JavaScript
+Node.js + Express + MongoDB + Vanilla JavaScript
 
 ### Stack B
 Python + FastAPI + SQLite + Vanilla JavaScript
